@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>https://gopinath-langote.github.io/authors/</link>
+      <atom:link href="https://gopinath-langote.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Gopinath Langote @2019</copyright>
+    <image>
+      <url>https://gopinath-langote.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://gopinath-langote.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://gopinath-langote.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gopinath-langote.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Gopinath Langote is a Software Engineer with good experience in designing and implementing complex web and mobile applications with micro-services architecture. Open source enthusiastic, creator of &lt;a href=&#34;https://github.com/gopinath-langote/1build&#34; target=&#34;_blank&#34;&gt;1build&lt;/a&gt; , contributed to the JUnit5 framework and Java Design Patterns. Public conference speaker.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

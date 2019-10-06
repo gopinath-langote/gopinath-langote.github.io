@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Academic</title>
+    <link>https://gopinath-langote.github.io/tags/</link>
+      <atom:link href="https://gopinath-langote.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Gopinath Langote @2019</copyright><lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gopinath-langote.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://gopinath-langote.github.io/tags/</link>
+    </image>
+    
+    <item>
+      <title>cdc</title>
+      <link>https://gopinath-langote.github.io/tags/cdc/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://gopinath-langote.github.io/tags/cdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contract-testing</title>
+      <link>https://gopinath-langote.github.io/tags/contract-testing/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://gopinath-langote.github.io/tags/contract-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microservices</title>
+      <link>https://gopinath-langote.github.io/tags/microservices/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://gopinath-langote.github.io/tags/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pact</title>
+      <link>https://gopinath-langote.github.io/tags/pact/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://gopinath-langote.github.io/tags/pact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tdd</title>
+      <link>https://gopinath-langote.github.io/tags/tdd/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://gopinath-langote.github.io/tags/tdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>https://gopinath-langote.github.io/tags/testing/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://gopinath-langote.github.io/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
